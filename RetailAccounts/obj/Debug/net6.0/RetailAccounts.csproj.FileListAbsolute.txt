@@ -1,0 +1,15 @@
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\bin\Debug\net6.0\RetailAccounts.exe
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\bin\Debug\net6.0\RetailAccounts.deps.json
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\bin\Debug\net6.0\RetailAccounts.runtimeconfig.json
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\bin\Debug\net6.0\RetailAccounts.dll
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\bin\Debug\net6.0\RetailAccounts.pdb
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.csproj.AssemblyReference.cache
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.AssemblyInfoInputs.cache
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.AssemblyInfo.cs
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.csproj.CoreCompileInputs.cache
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.dll
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\refint\RetailAccounts.dll
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.pdb
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\RetailAccounts.genruntimeconfig.cache
+C:\Users\EkokoY\source\repos\RetailAccounts\RetailAccounts\obj\Debug\net6.0\ref\RetailAccounts.dll
